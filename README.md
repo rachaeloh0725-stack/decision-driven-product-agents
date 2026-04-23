@@ -53,6 +53,14 @@ You can use this repository as:
 This is not a ready-made software product.
 It is a conceptual and methodological playbook shared for learning and exploration.
 
+## License
+
+This repository is shared under the MIT License.
+The content reflects my personal thinking and methodology.
+Commercial use as a packaged service or product is not provided here.
+
+
 ---
 
 Maintained by: Da‑Mi Oh  
+If this is useful, feel free to connect with me on LinkedIn
